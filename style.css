@@ -1,0 +1,14 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+.Hero h1{
+    font-size: 3rem !important;
+    
+}
+.Hero p{
+    width: 40%;
+}
+.services .card{
+    width: 90%;
+    margin: 0 auto;
+}
